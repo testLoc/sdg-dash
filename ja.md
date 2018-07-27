@@ -1,6 +1,6 @@
 # sdg-dash
 
-A prototype web application for exploring data and services related to the SDGs.
+SDG に関連するデータとサービスを検索するためのプロトタイプ Web アプリケーションです。変更
 
 このダッシュボード スタイルのアプリケーションは、EmberCLI を使用して構築されています。セットアップと Ember に関するその他の手順は以下のとおりです。
 
