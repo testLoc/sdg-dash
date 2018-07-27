@@ -1,6 +1,6 @@
 # sdg-dash
 
-A prototype web application for exploring data and services related to the SDGs.
+A prototype web application for exploring data and services related to the SDGs..
 
 This dashboard-style application is built using EmberCLI. More instructions on setup & Ember are below.
 
