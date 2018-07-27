@@ -4,7 +4,7 @@ A prototype web application for exploring data and services related to the SDGs.
 
 This dashboard-style application is built using EmberCLI. More instructions on setup & Ember are below.
 
-[View it Live](http://esri.github.io/sdg-dash/)
+[View it Live](https://github.com/testLoc/sdg-dash)
 
 ## APIs setup
 
